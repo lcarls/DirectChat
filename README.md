@@ -1,2 +1,2 @@
-# SimpleMessengerTest
+# DirectChat
 # Developed By Landon Carlson
