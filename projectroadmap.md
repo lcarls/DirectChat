@@ -1,3 +1,3 @@
-- [x] Create a Project Roadmap to list future goals of the project DONE
+- [x] Create a Project Roadmap to list future goals of the project
 - [ ] 
 - [ ] 
