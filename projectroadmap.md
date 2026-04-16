@@ -1,3 +1,3 @@
 - [x] Create a Project Roadmap to list future goals of the project
-- [ ] 
+- [ ] Add goals of the project to complete for each sprint/progress check
 - [ ] 
