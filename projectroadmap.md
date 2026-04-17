@@ -1,3 +1,6 @@
 - [x] Create a Project Roadmap to list future goals of the project
-- [ ] Add goals of the project to complete for each sprint/progress check
-- [ ] 
+- [ ] Add all goals of the project to complete for each sprint/progress check
+- [x] Test existing messaging code/repository
+- [ ] Create/implement crude messaging system
+- [ ] Add Entrance and exit messages
+- [ ] Add ability to enter screen name before entering chatroom
