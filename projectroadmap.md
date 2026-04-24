@@ -4,6 +4,9 @@
 - [x] Test existing messaging code/repository
 - [x] Create basic/beginning Flask code
 - [ ] Create/implement crude messaging system
-- [ ] Add Entrance and exit messages (“Welcome ____ to the chatroom; ____ exited the chatroom.”)
-- [ ] Add ability to enter screen name before entering chatroom
+    - [x] Get the webpage to open properly
+- [x] Begin Styling webpage
+    - [x] Include ability to add Name, Room Code, and buttons to Join/Create Room
+    - [ ] Add Entrance and exit messages (“Welcome ____ to the chatroom; ____ exited the chatroom.”)
+    - [ ] Add Color (?)
 - [ ] Add ability for clients to be able to join and leave at will; chatroom stays open until one or both people leave after initially joining. (Manually open/close chatroom?) 
