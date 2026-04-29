@@ -1,6 +1,6 @@
 - [x] Create a Project Roadmap to list future goals of the project
 - [x] Clone/sync DirectChat between KSU-IS and Personal Account
-- [ ] Add all goals of the project to complete for each sprint/progress check
+- [x] Add goals of the project to complete for each sprint/progress check
 - [x] Test existing messaging code/repository
 - [x] Create basic/beginning Flask code
 - [ ] Create/implement crude messaging system
@@ -9,4 +9,5 @@
     - [x] Include ability to add Name, Room Code, and buttons to Join/Create Room
     - [ ] Add Entrance and exit messages (“Welcome ____ to the chatroom; ____ exited the chatroom.”)
     - [ ] Add Color (?)
-- [ ] Add ability for clients to be able to join and leave at will; chatroom stays open until one or both people leave after initially joining. (Manually open/close chatroom?) 
+- [ ] Add ability for clients to be able to join and leave at will; chatroom stays open until one or both people leave after initially joining. (Manually open/close chatroom?)
+- [ ] Add ability for to message between two distinct devices(?)
