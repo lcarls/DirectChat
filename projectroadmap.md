@@ -9,5 +9,6 @@
     - [x] Include ability to add Name, Room Code, and buttons to Join/Create Room
     - [ ] Add Entrance and exit messages (“Welcome ____ to the chatroom; ____ exited the chatroom.”)
     - [ ] Add Color (?)
-- [ ] Add ability for clients to be able to join and leave at will; chatroom stays open until one or both people leave after initially joining. (Manually open/close chatroom?)
+- [x] Add ability for clients to be able to join and leave at will; chatroom stays open until one or both people leave after initially joining. (Manually open/close chatroom?)
+    - [x] Room will automatically be deleted after everyone exits
 - [ ] Add ability for to message between two distinct devices(?)
