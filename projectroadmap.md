@@ -8,7 +8,7 @@
 - [x] Begin Styling webpage
     - [x] Include ability to add Name, Room Code, and buttons to Join/Create Room/Send messages
     - [x] Add Entrance and exit messages (“____ has entered the chatroom; ____ has left the chatroom.”)
-    - [ ] Add different colors (?)
+    - [ ] Add different colors (Will experiment in near future)
 - [x] Add ability for clients to be able to join and leave at will; chatroom stays open until one or both people leave after initially joining.
     - [x] Room will automatically be deleted after everyone exits
 - [x] Add ability for to message between two distinct devices - Must be on the same WiFi Connection, able to connect through IP Address
